@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new satyricall ballad of the licentiousness of the times. To the tune of, The blinde beggar of Bednall-Green.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04573</idno>
+            <idno type="STC">ESTC R042204</idno>
+            <idno type="STC">Wing N748</idno>
+            <idno type="STC">ESTC R042204</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[119]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[116]</idno>
+            <idno type="EEBO-CITATION">99884979</idno>
+            <idno type="PROQUEST">ocm99884979</idno>
+            <idno type="VID">182785</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182785)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[120]; A4:2[117])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new satyricall ballad of the licentiousness of the times. To the tune of, The blinde beggar of Bednall-Green.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, 1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "THe devil has left his puritanical dress ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Political ballads and songs --  England --  Early works to 1800.</term>
+               <term>Pamphleteers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182785:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>A New Satyricall BALLAD OF THE Licentiouſneſs of the Times.</head>
+            <opener>To the Tune of, <hi>The Blinde Beggar of Bednall-Green.</hi>
+            </opener>
+            <lg n="1">
+               <head>I.</head>
+               <l>THe devil has left his puritanical dreſs,</l>
+               <l>And now like an Hawker attends on the Preſs,</l>
+               <l>That he might through the Town Sedition diſperſe,</l>
+               <l>In Pamphlets, and Ballads, in proſe and in Verſe.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>'Tis ſurely ſo, for if the Devil wan't in't,</l>
+               <l>There would not be ſo many ſtrange things in print:</l>
+               <l>Now each man writes what ſeems good in his Eyes,</l>
+               <l>And tells in bald Rimes his Inventions and Lies.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Some relate to the World their own cauſeleſs fears,</l>
+               <l>Endeavouring to ſet us together by the ears,</l>
+               <l>They ſtrive to make Factions for two great Commanders,</l>
+               <l>Tho one be in <hi>Holland,</hi> the other in <hi>Flanders.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>They bawl and they yaul aloud through the whole Town,</l>
+               <l>The rights of Succeſſion and Claims to the Crown,</l>
+               <l>And ſnarling and grumbling like Fools at each other,</l>
+               <l>Raiſe Conteſts and Factions betwixt Son and Brother.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Here one doth on this ſide his Verſes oppoſe,</l>
+               <l>Up ſtarts another and juſts with him in proſe,</l>
+               <l>On Rumor a Jade, they get up, and mount her,</l>
+               <l>And ſo like <hi>Don Quixot</hi> with Wind-mills Encounter.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Our Sun is not ſetting, it does not grow dark yet,</l>
+               <l>The King is in health ſtill, and gone to <hi>New-Market,</hi>
+               </l>
+               <l>Let then idle Coxcomb's leave off their debating,</l>
+               <l>What either ſide ſays is unmannerly prating.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Another tho he be but a ſenſeleſs Widgion</l>
+               <l>Will like an Arch-biſhop determine Religion:</l>
+               <l>What ere his opinion is that muſt be beſt,</l>
+               <l>And ſtrait he Confutes, and Confounds all the reſt.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>I'the Coffee houſe here one with a grave face,</l>
+               <l>When after ſalute, he hath taken his place,</l>
+               <l>His Pipe being lighted begins for to prate,</l>
+               <l>And wiſely diſcourſes the affairs of the State.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Another in fury the board ſtrait doth thump,</l>
+               <l>And highly extolls the bleſt Times of the Rump;</l>
+               <l>The Pope and all Monarchs he ſends to the Devil,</l>
+               <l>And up in their places he ſets <hi>Harry Nevill.</hi>
+               </l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>Another who would be diſtinguiſh'd from Cit,</l>
+               <l>And ſwearing God dam me, to ſhew him a wit,</l>
+               <l>(Who for all his huffing one grain hath not got)</l>
+               <l>Scoffs at all Religion, and the Popiſh plot.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>One with an uncivill ſatyrical Jeſt,</l>
+               <l>To be thought a wit, has a fling at the Prieſt,</l>
+               <l>He jears at his Betters, and all men of note,</l>
+               <l>From th' Alderman to the Canonical coat.</l>
+            </lg>
+            <lg n="12">
+               <head>XII.</head>
+               <l>A politick Citizen in his blew gown,</l>
+               <l>As gravely in ſhop he walks up, and down,</l>
+               <l>Inſtead of attending the wares on his ſtaul,</l>
+               <l>Is all day relating th'intreagues at <hi>White-hall.</hi>
+               </l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>And though to ſpeak Truth he be but a Noddy,</l>
+               <l>He'd have you to think that he is ſome-body,</l>
+               <l>With politick ſhrug, ev'n as bad as a Curſe,</l>
+               <l>He crys out, Oh! the Times, no Mortal ſaw worſe.</l>
+            </lg>
+            <lg n="14">
+               <head>XIV.</head>
+               <l>Then comes a wiſe Knight as the whole Citty's Factor,</l>
+               <l>Speaks Prologue in proſe, too grave for an Actor,</l>
+               <l>And being ſore frighted, in a learned ſpeech,</l>
+               <l>To ſtand to their Arms all the Citts doth beſeech.</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>The Cobler in ſtall, did you but hear him prate,</l>
+               <l>You'd think that he ſate at the helm of the State,</l>
+               <l>His awl lay'd aſide, and in right hand a pot.</l>
+               <l>He roundly rips up the Soul of the Plot.</l>
+            </lg>
+            <lg n="16">
+               <head>XVI.</head>
+               <l>But it is not enough to ſee what is paſt,</l>
+               <l>For theſe very Men become Prophets at laſt,</l>
+               <l>And with the ſame eyes can ſee what is meant,</l>
+               <l>To be Acted and done in the next Parliament.</l>
+            </lg>
+            <lg n="17">
+               <head>XVII.</head>
+               <l>His Worſhip ſo wiſe, who a Kingdome can Rule,</l>
+               <l>Is by none dear Wife at home made a Fool,</l>
+               <l>For though he doth ſee through dark Miſts of the State,</l>
+               <l>He can't ſee the Horns that ſhe plants on his pate.</l>
+            </lg>
+            <lg n="18">
+               <head>XVIII.</head>
+               <l>The Women too prate of the Pope and the Turk,</l>
+               <l>Who ſhould play with their Tails, or elſe be at work,</l>
+               <l>But two Noble Virtues they've attain'd to, I think,</l>
+               <l>To handle State matters, and take off their drink.</l>
+            </lg>
+            <lg n="19">
+               <head>XIX.</head>
+               <l>Petition the Players to come on the Stage,</l>
+               <l>There to repreſent the vice of the Age,</l>
+               <l>That people may ſee in Stage looking-Glaſſes,</l>
+               <l>Fools of all ſorts, and theſe pollitick Aſſes.</l>
+            </lg>
+            <lg n="20">
+               <head>XX.</head>
+               <l>And thus I have ſhown you the vice of the Nation,</l>
+               <l>Which wants of theſe Things a through-Reformation,</l>
+               <l>But when that will be I cannot determine,</l>
+               <l>For plenty breeds Vice, as ſoul Bodies breed Vermine.</l>
+            </lg>
+            <lg n="21">
+               <head>XXI.</head>
+               <l>Men may prate and may write, but 'tis not their Rimes,</l>
+               <l>That can any ways change or alter the Times,</l>
+               <l>It is now grown an Epidemical Diſeaſe,</l>
+               <l>For people to talk and to write what they pleaſe.</l>
+            </lg>
+            <lg n="22">
+               <head>XXII.</head>
+               <l>God bleſs our Good King who our little World Rules,</l>
+               <l>And is not diſturb'd rt the Actions of Fools,</l>
+               <l>It very much helps a Wiſe Man's Melancholly,</l>
+               <l>To ſee and obſerve and to Laugh at their Folly.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Year, 1679.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
